@@ -10,7 +10,6 @@ const Routes = () => (
       <Switch>
         <Route exact path="/" component={Main} />
       </Switch>
-      <Footer />
     </Fragment>
   </BrowserRouter>
 );
